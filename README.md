@@ -75,7 +75,7 @@ docker run -p 5550:5555 \
 ### Install Client Dependencies
 
 ```bash
-pip install -r client_requirements.txt
+pip install -r client_requirement.txt
 ```
 
 ### Basic Face Detection
